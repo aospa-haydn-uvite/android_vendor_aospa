@@ -24,6 +24,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/davinci/aospa_davinci.mk \
     $(LOCAL_DIR)/dubai/aospa_dubai.mk \
     $(LOCAL_DIR)/juice/aospa_juice.mk \
+    $(LOCAL_DIR)/haydn/aospa_haydn.mk \
     $(LOCAL_DIR)/lahaina/aospa_lahaina.mk \
     $(LOCAL_DIR)/lisa/aospa_lisa.mk \
     $(LOCAL_DIR)/lito/aospa_lito.mk \
@@ -70,6 +71,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_davinci-userdebug \
     aospa_dubai-userdebug \
     aospa_juice-userdebug \
+    aospa_haydn-userdebug \
     aospa_lahaina-userdebug \
     aospa_lisa-userdebug \
     aospa_lito-userdebug \
